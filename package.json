@@ -1,0 +1,12 @@
+{
+  "name": "mongodb-pubsub",
+  "description": "A publish-subscribe pattern implementation for node-mongodb",
+  "main": "mongodb-pubsub",
+  "version": "2012.3.0alpha",
+  "author": "Patryk Zawadzki <patrys@room-303.com>",
+  "engines": { "node": ">= 0.6.0" },
+  "dependencies": {
+    "microtime": "0.2.x",
+    "mongodb": "0.9.x"
+  }
+}
